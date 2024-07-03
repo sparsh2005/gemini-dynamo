@@ -7,3 +7,6 @@ The project uses DynamoCards, an open-source tool, tackles the arduous task of p
 ## Functions
 
 The users will choose a YouTube link as input and generate summaries of the video in flashcards.
+
+<img width="1399" alt="image" src="https://github.com/sparsh2005/gemini-dynamo/assets/132638162/c585b739-85b0-4c36-afbe-7060fbb5cdf5">
+
